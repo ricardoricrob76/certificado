@@ -202,284 +202,284 @@ st.markdown("""
 # ============================================================
 ALUNOS_T3 = {
     "CERT-T3-001": {
-        "nome": "Fabiano Quirino da Silva",
-        "email": "fabiano.silva@email.com",
+        "nome": "Geraldo Camilo da Fonseca T. Vallencia",
+        "email": "geraldovalencia@gmail.com",
         "cpf": "***.***.***-01",
-        "nota": 9.2,
-        "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
-    },
-    "CERT-T3-002": {
-        "nome": "Ana Carolina Mendes",
-        "email": "ana.mendes@email.com",
-        "cpf": "***.***.***-02",
         "nota": 9.5,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
+    },
+    "CERT-T3-002": {
+        "nome": "Alexandre de Oliveira",
+        "email": "alexandre.marq@gmail.com",
+        "cpf": "***.***.***-02",
+        "nota": 9.1,
+        "status": "Aprovado",
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-003": {
-        "nome": "Bruno Henrique Costa",
-        "email": "bruno.costa@email.com",
+        "nome": "José Roberto Bernardino da Silva",
+        "email": "jr.bnardino@gmail.com",
         "cpf": "***.***.***-03",
-        "nota": 8.8,
+        "nota": 9.8,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-004": {
-        "nome": "Camila Fernanda Souza",
-        "email": "camila.souza@email.com",
+        "nome": "Silvestre Silva",
+        "email": "silsuedcarvalho16@gmail.com",
         "cpf": "***.***.***-04",
         "nota": 9.7,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-005": {
-        "nome": "Diego Almeida Rocha",
-        "email": "diego.rocha@email.com",
+        "nome": "Jordan Oliveira",
+        "email": "jordandossantosoliveira@gmail.com",
         "cpf": "***.***.***-05",
-        "nota": 8.5,
+        "nota": 9.5,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-006": {
-        "nome": "Eduarda Lima Pereira",
-        "email": "eduarda.pereira@email.com",
+        "nome": "José Nicollas",
+        "email": "jnichollaslr@gmail.com",
         "cpf": "***.***.***-06",
         "nota": 9.8,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-007": {
-        "nome": "Felipe Augusto Santos",
-        "email": "felipe.santos@email.com",
+        "nome": "Esther Marreiro",
+        "email": "estermarreiro13@hotmail.com",
         "cpf": "***.***.***-07",
-        "nota": 8.9,
+        "nota": 9.9,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-008": {
-        "nome": "Gabriela Martins Oliveira",
-        "email": "gabriela.oliveira@email.com",
+        "nome": "Antonio Ramos Neto",
+        "email": "antonioramos9@hotmail.com",
         "cpf": "***.***.***-08",
         "nota": 9.3,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-009": {
-        "nome": "Henrique Silva Nunes",
-        "email": "henrique.nunes@email.com",
+        "nome": "Diego Altenkirch Kabbaz",
+        "email": "diegokabbaz@gmail.com",
         "cpf": "***.***.***-09",
-        "nota": 8.7,
+        "nota": 9.7,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-010": {
-        "nome": "Isabela Cristina Dias",
-        "email": "isabela.dias@email.com",
+        "nome": "Bruno Rodrigues",
+        "email": "fidbrunorodrigues@gmail.com",
         "cpf": "***.***.***-10",
         "nota": 9.6,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-011": {
-        "nome": "João Pedro Ferreira",
-        "email": "joao.ferreira@email.com",
+        "nome": "Jean Paixão",
+        "email": "jeutdb@gmail.com",
         "cpf": "***.***.***-11",
-        "nota": 8.4,
+        "nota": 9.9,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-012": {
-        "nome": "Karina Beatriz Lopes",
-        "email": "karina.lopes@email.com",
+        "nome": "Igor Pinheiro de Brito",
+        "email": "igor_pbrito@hotmail.com",
         "cpf": "***.***.***-12",
-        "nota": 9.1,
+        "nota": 9.6,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-013": {
-        "nome": "Lucas Gabriel Ribeiro",
-        "email": "lucas.ribeiro@email.com",
+        "nome": "Kayky Dias",
+        "email": "kaykymiguel5710@gmail.com",
         "cpf": "***.***.***-13",
-        "nota": 8.6,
+        "nota": 9.6,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-014": {
-        "nome": "Mariana Costa Almeida",
-        "email": "mariana.almeida@email.com",
+        "nome": "Bruno Evangelista Lima",
+        "email": "ct.bruno.evangelista@gmail.com",
         "cpf": "***.***.***-14",
         "nota": 9.4,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-015": {
-        "nome": "Nicolas Eduardo Pinto",
-        "email": "nicolas.pinto@email.com",
+        "nome": "Guilherme Macena",
+        "email": "gmma0408@gmail.com",
         "cpf": "***.***.***-15",
-        "nota": 8.3,
+        "nota": 9.3,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-016": {
-        "nome": "Olivia Maria Santos",
-        "email": "olivia.santos@email.com",
+        "nome": "Cristian Alves",
+        "email": "cristian.assis20@gmail.com",
         "cpf": "***.***.***-16",
         "nota": 9.9,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-017": {
-        "nome": "Pedro Henrique Moura",
-        "email": "pedro.moura@email.com",
+        "nome": "Kevin Kilmer",
+        "email": "kp827767@gmail.com",
         "cpf": "***.***.***-17",
-        "nota": 8.2,
+        "nota": 9.2,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-018": {
-        "nome": "Quésia Fernanda Lima",
-        "email": "quesia.lima@email.com",
+        "nome": "Rafael Cirne",
+        "email": "cirnerafael06@gmail.com",
         "cpf": "***.***.***-18",
-        "nota": 9.0,
+        "nota": 9.5,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-019": {
-        "nome": "Rafaela Cristiane Dias",
-        "email": "rafaela.dias@email.com",
+        "nome": "Robson Lima Palmeira",
+        "email": "astecapb02@gmail.com",
         "cpf": "***.***.***-19",
-        "nota": 8.8,
+        "nota": 9.8,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-020": {
-        "nome": "Samuel Victor Andrade",
-        "email": "samuel.andrade@email.com",
+        "nome": "Arthur Freitas Palmeira",
+        "email": "arturfpalmeira@hotmail.com",
         "cpf": "***.***.***-20",
         "nota": 9.5,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-021": {
-        "nome": "Tatiane Souza Martins",
-        "email": "tatiane.martins@email.com",
+        "nome": "Amanda de Almeida",
+        "email": "economiaamanda@gmail.com",
         "cpf": "***.***.***-21",
-        "nota": 8.7,
+        "nota": 9.7,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-022": {
-        "nome": "Ugo Henrique Barbosa",
-        "email": "ugo.barbosa@email.com",
+        "nome": "Perilo Oliveira",
+        "email": "perilojp@gmail.com",
         "cpf": "***.***.***-22",
         "nota": 9.2,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-023": {
-        "nome": "Vanessa Cristina Melo",
-        "email": "vanessa.melo@email.com",
+        "nome": "Alysson Assis",
+        "email": "mercadoassis11@gmail.com",
         "cpf": "***.***.***-23",
-        "nota": 8.9,
+        "nota": 9.9,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-024": {
-        "nome": "Wesley Douglas Costa",
-        "email": "wesley.costa@email.com",
+        "nome": "Cadu Souza",
+        "email": "czoliveiraa@gmail.com",
         "cpf": "***.***.***-24",
         "nota": 9.3,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-025": {
-        "nome": "Xênia Maria Oliveira",
-        "email": "xenia.oliveira@email.com",
+        "nome": "João Gabriel ",
+        "email": "jbarretofalcao@gmail.com",
         "cpf": "***.***.***-25",
-        "nota": 8.5,
+        "nota": 9.5,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-026": {
-        "nome": "Yago Henrique Rocha",
-        "email": "yago.rocha@email.com",
+        "nome": "Augusto Medeiros",
+        "email": "augustomedeiros71@gmail.com",
         "cpf": "***.***.***-26",
-        "nota": 9.1,
+        "nota": 9.7,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-027": {
-        "nome": "Zara Fernanda Lopes",
-        "email": "zara.lopes@email.com",
+        "nome": "Biel Aguiar",
+        "email": "bielaguiar4@gmail.com",
         "cpf": "***.***.***-27",
         "nota": 9.7,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-028": {
-        "nome": "Adriana Beatriz Nunes",
-        "email": "adriana.nunes@email.com",
+        "nome": "Gabriel Lyra",
+        "email": "br.gabrielyra@gmail.com",
         "cpf": "***.***.***-28",
-        "nota": 8.6,
+        "nota": 9.6,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-029": {
-        "nome": "Bianca Cristiane Pinto",
-        "email": "bianca.pinto@email.com",
+        "nome": "Jeffson Luiz",
+        "email": "jeffsonluiz11@gmail.com",
         "cpf": "***.***.***-29",
         "nota": 9.4,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-030": {
-        "nome": "Carlos Eduardo Souza",
-        "email": "carlos.souza@email.com",
+        "nome": "Julio Cesar",
+        "email": "julioceasarcs@gmail.com",
         "cpf": "***.***.***-30",
-        "nota": 8.3,
+        "nota": 9.3,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-031": {
-        "nome": "Daniela Fernanda Lima",
-        "email": "daniela.lima@email.com",
+        "nome": "Rafael Vieira",
+        "email": "rafael.vieiraa02@gmail.com",
         "cpf": "***.***.***-31",
         "nota": 9.8,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-032": {
-        "nome": "Elias Gabriel Dias",
+        "nome": "José Hermano Pereira Henrique",
         "email": "elias.dias@email.com",
         "cpf": "***.***.***-32",
-        "nota": 8.4,
+        "nota": 9.6,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-033": {
-        "nome": "Fernanda Cristina Melo",
+        "nome": "Jailson Pereira da Silva",
         "email": "fernanda.melo@email.com",
         "cpf": "***.***.***-33",
         "nota": 9.6,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-034": {
-        "nome": "Gustavo Henrique Andrade",
+        "nome": "Darllyson Davyd Tavares Coutinho",
         "email": "gustavo.andrade@email.com",
         "cpf": "***.***.***-34",
-        "nota": 8.7,
+        "nota": 9.8,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-035": {
-        "nome": "Helena Maria Rocha",
+        "nome": "Wesllen Albuquerque de Souza",
         "email": "helena.rocha@email.com",
         "cpf": "***.***.***-35",
-        "nota": 9.2,
+        "nota": 9.7,
         "status": "Aprovado",
-        "data_conclusao": "07/03/2026"
+        "data_conclusao": "30/05/2026"
     },
     "CERT-T3-036": {
         "nome": "Igor Douglas Barbosa",
