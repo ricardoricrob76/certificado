@@ -524,7 +524,7 @@ def gerar_qr_code(cert_id):
         return None
 
     # URL de validação (ajustar para domínio do Vercel)
-    base_url = os.environ.get("VERCEL_URL", "https://seu-app.vercel.app")
+    base_url = os.environ.get("VERCEL_URL", "https://certificado-hpvuhzigjtn6cahgki9fma.streamlit.app")
     if not base_url.startswith("http"):
         base_url = f"https://{base_url}"
 
