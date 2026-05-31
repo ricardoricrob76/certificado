@@ -386,7 +386,7 @@ ALUNOS_T3 = {
         "data_conclusao": "30/05/2026"
     },
     "CERT-T3-024": {
-        "nome": "Cadu Souza",
+        "nome": "Carlos Eduardo Souza Oliveira",
         "email": "czoliveiraa@gmail.com",
         "cpf": "***.***.***-24",
         "nota": 9.3,
