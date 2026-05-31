@@ -451,7 +451,7 @@ ALUNOS_T3 = {
     },
     "CERT-T3-032": {
         "nome": "José Hermano Pereira Henrique",
-        "email": "elias.dias@email.com",
+        "email": "hermanojr04@gmail.com",
         "cpf": "***.***.***-32",
         "nota": 9.6,
         "status": "Aprovado",
