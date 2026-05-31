@@ -250,7 +250,7 @@ ALUNOS_T3 = {
         "data_conclusao": "30/05/2026"
     },
     "CERT-T3-007": {
-        "nome": "Esther Marreiro",
+        "nome": "Ester Marreiro da Rocha",
         "email": "estermarreiro13@hotmail.com",
         "cpf": "***.***.***-07",
         "nota": 9.9,
