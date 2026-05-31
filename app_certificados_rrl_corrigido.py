@@ -489,6 +489,14 @@ ALUNOS_T3 = {
         "status": "Aprovado",
         "data_conclusao": "07/03/2026"
     },
+    "CERT-T3-038": {
+        "nome": "Lucas Vieira Medeiros",
+        "email": "igor.barbosa@email.com",
+        "cpf": "***.***.***-36",
+        "nota": 8.9,
+        "status": "Aprovado",
+        "data_conclusao": "07/03/2026"
+    },
     "CERT-T3-037": {
         "nome": "Juliana Cristiane Costa",
         "email": "juliana.costa@email.com",
