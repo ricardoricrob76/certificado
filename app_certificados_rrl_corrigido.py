@@ -242,7 +242,7 @@ ALUNOS_T3 = {
         "data_conclusao": "30/05/2026"
     },
     "CERT-T3-006": {
-        "nome": "José Nicollas",
+        "nome": "José Nichollas",
         "email": "jnichollaslr@gmail.com",
         "cpf": "***.***.***-06",
         "nota": 9.8,
