@@ -9,7 +9,7 @@
     "turma": "T4 IAGEN"
   },
   "alunos": {
-    "CERT-T3-001": {"nome": "Geraldo Camilo da Fonseca T. Vallencia", "email": "geraldovalencia@gmail.com", "cpf": "***.***.***-01", "nota": 9.5, "status": "Aprovado", "data_conclusao": "30/05/2026"},
+    "CERT-T3-001": {"nome": "joao guilherme costa lima", "email": "geraldovalencia@gmail.com", "cpf": "***.***.***-01", "nota": 9.5, "status": "Aprovado", "data_conclusao": "30/05/2026"},
     "CERT-T3-002": {"nome": "Alexandre de Oliveira", "email": "alexandre.marq@gmail.com", "cpf": "***.***.***-02", "nota": 9.1, "status": "Aprovado", "data_conclusao": "30/05/2026"},
     "CERT-T3-003": {"nome": "José Roberto Bernardino da Silva", "email": "jr.bnardino@gmail.com", "cpf": "***.***.***-03", "nota": 9.8, "status": "Aprovado", "data_conclusao": "30/05/2026"},
     "CERT-T3-004": {"nome": "Silvestre Silva", "email": "silsuedcarvalho16@gmail.com", "cpf": "***.***.***-04", "nota": 9.7, "status": "Aprovado", "data_conclusao": "30/05/2026"},
