@@ -457,7 +457,7 @@ def main():
     with col4:
         st.markdown("""
         <div style="text-align: center; background: rgba(255,255,255,0.15); padding: 15px; border-radius: 12px; color: white;">
-            <div style="font-size: 1.8rem; font-weight: 700;">T3</div>
+            <div style="font-size: 1.8rem; font-weight: 700;">T7</div>
             <div style="font-size: 0.75rem; opacity: 0.8;">Turma IAGEN</div>
         </div>
         """, unsafe_allow_html=True)
