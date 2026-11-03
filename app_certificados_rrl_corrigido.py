@@ -475,7 +475,7 @@ def main():
     busca = st.text_input(
         "Digite o Código do Certificado ou Nome do Aluno:",
         value=cert_param,
-        placeholder="Ex: CERT-T3-001 ou Fabiano Quirino da Silva",
+        placeholder="Ex: CERT-T7-001 ou Fabiano Quirino da Silva",
         label_visibility="collapsed"
     )
 
@@ -519,7 +519,7 @@ def main():
     with st.expander("📋 Ver Lista Completa de Alunos (37)"):
         st.markdown("""
         <div style="background: white; padding: 20px; border-radius: 15px;">
-            <h3 style="color: #1e3c72; margin-bottom: 20px;">Turma T3 IAGEN - Alunos Matriculados</h3>
+            <h3 style="color: #1e3c72; margin-bottom: 20px;">Turma T7 IAGEN - Alunos Matriculados</h3>
         </div>
         """, unsafe_allow_html=True)
 
