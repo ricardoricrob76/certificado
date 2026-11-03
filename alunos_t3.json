@@ -29,7 +29,9 @@
     "CERT-T7-018": {"nome": "Igor José da Silva ", "email": "Igordacaloi82@gmail.com", "cpf": "***.***.***-18", "nota": 9.5, "status": "Aprovado", "data_conclusao": "31/10/2026"},
     "CERT-T7-019": {"nome": "Lívia da Rocha Lima", "email": "liviarchlima@gmail.com", "cpf": "***.***.***-19", "nota": 9.8, "status": "Aprovado", "data_conclusao": "31/10/2026"},
     "CERT-T7-020": {"nome": "Rodrigo Cordeiro Tavares Pereira", "email": "rodrigorctavares@gmail.com", "cpf": "***.***.***-20", "nota": 9.5, "status": "Aprovado", "data_conclusao": "31/10/2026"},
-    "CERT-T7-021": {"nome": "Aluizio Nicodemos da Silva Neto", "email": "aluizion@gmail.com", "cpf": "***.***.***-30", "nota": 9.3, "status": "Aprovado", "data_conclusao": "31/10/2026"}
+    "CERT-T7-021": {"nome": "Aluizio Nicodemos da Silva Neto", "email": "aluizion@gmail.com", "cpf": "***.***.***-30", "nota": 9.3, "status": "Aprovado", "data_conclusao": "31/10/2026"},
+    "CERT-T7-022": {"nome": "João Vitor da Silva Costa", "email": "joaovitor@gmail.com", "cpf": "***.***.***-30", "nota": 9.5, "status": "Aprovado", "data_conclusao": "31/10/2026"},
+    "CERT-T7-023": {"nome": "Luiz Henrique", "email": "luizhenrique@gmail.com", "cpf": "***.***.***-30", "nota": 9.25, "status": "Aprovado", "data_conclusao": "31/10/2026"}  
 }
 
 }
